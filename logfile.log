@@ -1,0 +1,39 @@
+2023-03-07 14:14:19,242 :INFO : test_end2end :Getting all products
+2023-03-07 14:14:19,340 :INFO : test_end2end :iphone X
+2023-03-07 14:14:19,365 :INFO : test_end2end :Samsung Note 8
+2023-03-07 14:14:19,420 :INFO : test_end2end :Nokia Edge
+2023-03-07 14:14:19,508 :INFO : test_end2end :Blackberry
+2023-03-07 14:14:21,261 :INFO : test_end2end :Entering country as slo
+2023-03-07 14:14:26,990 :INFO : test_end2end :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-07 14:14:34,978 :INFO : test_form_submission :First name is Rahul
+2023-03-07 14:14:37,939 :INFO : test_form_submission :First name is Ander
+2023-03-07 14:14:37,939 :INFO : test_form_submission :First name is Ander
+2023-03-07 14:24:58,166 :INFO : test_end2end :Getting all products
+2023-03-07 14:24:58,270 :INFO : test_end2end :iphone X
+2023-03-07 14:24:58,306 :INFO : test_end2end :Samsung Note 8
+2023-03-07 14:24:58,342 :INFO : test_end2end :Nokia Edge
+2023-03-07 14:24:58,415 :INFO : test_end2end :Blackberry
+2023-03-07 14:25:00,100 :INFO : test_end2end :Entering country as slo
+2023-03-07 14:25:06,058 :INFO : test_end2end :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-07 14:25:15,006 :INFO : test_form_submission :First name is Rahul
+2023-03-07 14:25:17,514 :INFO : test_form_submission :First name is Ander
+2023-03-07 14:25:17,514 :INFO : test_form_submission :First name is Ander
+2023-03-07 14:25:50,416 :INFO : test_end2end :Getting all products
+2023-03-07 14:25:50,541 :INFO : test_end2end :iphone X
+2023-03-07 14:25:50,579 :INFO : test_end2end :Samsung Note 8
+2023-03-07 14:25:50,603 :INFO : test_end2end :Nokia Edge
+2023-03-07 14:25:50,627 :INFO : test_end2end :Blackberry
+2023-03-07 14:25:51,623 :INFO : test_end2end :Entering country as slo
+2023-03-07 14:25:57,476 :INFO : test_end2end :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-07 14:26:05,445 :INFO : test_form_submission :First name is Rahul
+2023-03-07 14:26:07,905 :INFO : test_form_submission :First name is Ander
+2023-03-07 14:26:07,905 :INFO : test_form_submission :First name is Ander
+2023-03-09 13:22:53,843 :INFO : test_form_submission :First name is Rahul
+2023-03-09 13:23:01,037 :INFO : test_form_submission :First name is Ander
+2023-03-09 13:23:01,037 :INFO : test_form_submission :First name is Ander
+2023-03-09 13:27:59,079 :INFO : test_form_submission :First name is Rahul
+2023-03-09 13:28:01,833 :INFO : test_form_submission :First name is Ander
+2023-03-09 13:28:01,833 :INFO : test_form_submission :First name is Ander
