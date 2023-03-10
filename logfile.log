@@ -37,3 +37,14 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2023-03-09 13:27:59,079 :INFO : test_form_submission :First name is Rahul
 2023-03-09 13:28:01,833 :INFO : test_form_submission :First name is Ander
 2023-03-09 13:28:01,833 :INFO : test_form_submission :First name is Ander
+2023-03-10 09:42:07,358 :INFO : test_end2end :Getting all products
+2023-03-10 09:42:07,449 :INFO : test_end2end :iphone X
+2023-03-10 09:42:07,489 :INFO : test_end2end :Samsung Note 8
+2023-03-10 09:42:07,544 :INFO : test_end2end :Nokia Edge
+2023-03-10 09:42:07,589 :INFO : test_end2end :Blackberry
+2023-03-10 09:42:09,110 :INFO : test_end2end :Entering country as slo
+2023-03-10 09:42:14,929 :INFO : test_end2end :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-10 09:42:22,887 :INFO : test_form_submission :First name is Rahul
+2023-03-10 09:42:25,687 :INFO : test_form_submission :First name is Ander
+2023-03-10 09:42:25,687 :INFO : test_form_submission :First name is Ander
